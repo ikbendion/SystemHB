@@ -1,0 +1,3 @@
+url: "https://google.com"
+service: "sshd"
+interval: "60"
